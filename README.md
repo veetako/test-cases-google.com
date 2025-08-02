@@ -4,7 +4,7 @@
 <table>
   <thead>
     <tr>
-      <th style="min-width: 200px;">Test Case ID</th>
+      <th>Test Case ID</th>
       <th>Title</th>
       <th>Description</th>
       <th>Precondition</th>
